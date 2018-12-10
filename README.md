@@ -1,5 +1,3 @@
-## Welcome to GitHub Pages
+## Welcome to my HomePage
+# Me and _informatiq_
 
-# part1
-## part 2 
-### part3 
