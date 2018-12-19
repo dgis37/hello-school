@@ -2,9 +2,8 @@
 
 
  
-
-| ![Image](cat.png)   | baccalauréat scientifique
-manager expérimenté |
+|                     | baccalauréat scientifique | 
+| ![Image](cat.png)   | manager expérimenté |
 | -------- | -------- |
 | List 1 | luc |
 
