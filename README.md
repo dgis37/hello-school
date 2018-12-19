@@ -4,6 +4,7 @@
  ![Image](cat.png)  
 
 | Bulleted | un avion |
+| -------- | -------- |
 | List 1 | luc |
 
 1. Numbered 
