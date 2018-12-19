@@ -2,10 +2,10 @@
 
 
  
-|                     | baccalauréat scientifique | 
+ 
 | ![Image](cat.png)   | manager expérimenté |
 | -------- | -------- |
-| List 1 | luc |
+
 
 1. Numbered 
 2. List
