@@ -1,6 +1,6 @@
 ## MICHEL GHISLAIN 
 
-|![Image](lycée.png) | Baccalauréat scientifique                           promo 2002 |
+|![Image](lycée.png) | Baccalauréat scientifique                           promo 2002 b |
 |---------------------- | -------------------------- |
 |![Image](univ.png) | Licence 1 et 2 Maths option informatique |
 |![Image](mc.png) | D'équipier à Assistant de Direction |
