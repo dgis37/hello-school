@@ -1,15 +1,15 @@
 # MICHEL GHISLAIN 
 
 
-![Image](college.png)
+![Image](college.png) ;
 
-![Image](dom.png)
+![Image](dom.png) ; 
 
-![Image](mc.png)
+![Image](mc.png) ;
 
-![Image](univ.png)
+![Image](univ.png) ;
 
-![Image](cat.png)
+![Image](cat.png) ;
 
 
 
