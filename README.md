@@ -2,9 +2,8 @@
 
 
  
-  | ![Image](cat.png) | baccalauréat scientifique |
-                      | Manager |   
-  |------------------ | --------------------------------------------------------------- |
+  | ![Image](cat.png) | baccalauréat scientifique | 
+  |------------------ | ------------------------- |
 
 
 1. Numbered 
