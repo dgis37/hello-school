@@ -1,10 +1,10 @@
 # MICHEL GHISLAIN 
 
 
-| ![Image](cat.png) | hello it s me |
+ ![Image](cat.png)  
 
-- Bulleted  un avion
-- List 1
+| Bulleted | un avion |
+| List 1 | luc |
 
 1. Numbered 
 2. List
