@@ -3,7 +3,7 @@
 
  ![Image](cat.png)  
 
-| Bulleted | un avion |
+| ![Image](cat.png)   | un avion |
 | -------- | -------- |
 | List 1 | luc |
 
