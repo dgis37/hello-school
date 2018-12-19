@@ -2,8 +2,8 @@
 
 
  
- ![Image](cat.png) 
-
+  | ![Image](cat.png) | baccalauréat scientifique > Manager > Responsable > developpeur |
+  |------------------ | --------------------------------------------------------------- |
 
 
 1. Numbered 
