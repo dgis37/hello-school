@@ -3,7 +3,7 @@
 
  
  
-   ``` ![Image](cat.png)    manager expérimenté ```
+    ![Image](cat.png)    manager expérimenté 
 
 
 
