@@ -2,7 +2,7 @@
 ![Image](cat.png) 
 
 - Bulleted  un avion
-- Liste 1
+- liste 1
 2
 3
 
