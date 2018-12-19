@@ -1,6 +1,6 @@
 ## MICHEL GHISLAIN 
 
-<p align="center">
+
 
 | ![Image](lycée.png)  |  Baccalauréat scientifique option physique/chimie promo 2002  |
 | ------------------ | ------------ |
@@ -12,7 +12,7 @@
 |![Image](dom.png)|2017-2018 d'assistant de direction à Responsable de Magasin|
 |![Image](cat.png)|2019 Developpeur informatique|
 
-</p>
+
 
 liens utiles [linkedin](https://www.linkedin.com/in/ghislain-michel-31b024153/) // [CV](CV_Ghislain_Michel_M2i.docx) essai 8
 
