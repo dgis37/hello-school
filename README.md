@@ -3,7 +3,7 @@
 
 | <p align="center">
   <img width="460" height="300" ![Image](lycée.png)
-</p>![Image](lycée.png) |  Baccalauréat scientifique option physique/chimie promo 2002  |
+</p> |  Baccalauréat scientifique option physique/chimie promo 2002  |
 | :------------------: | :------------: |
 | ![Image](univ.png)|IUT GTR Genie Telecomunication Réseau  Licence 1 & 2 Maths option informatique </code></pre>|
 
