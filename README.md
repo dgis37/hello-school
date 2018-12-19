@@ -2,9 +2,10 @@
 ![Image](cat.png) 
 
 - Bulleted  un avion
-- list 1
-2
-3
+- List 1
+
+1. Numbered 
+2. List
 
 ===========
 lien utile [linkedin](https://www.linkedin.com/in/ghislain-michel-31b024153/)
