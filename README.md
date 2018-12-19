@@ -2,7 +2,7 @@
 
 
  
-  | ![Image](cat.png) | baccalauréat scientifique | 
+  | ![Image](cat.png) | baccalauréat scientifique                | 
   |------------------ | ------------------------- |
 
 
