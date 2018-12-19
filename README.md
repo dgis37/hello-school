@@ -3,8 +3,8 @@
 
  
  
-| ![Image](cat.png)   | manager expérimenté |
-| -------- | -------- |
+   ``` ![Image](cat.png)    manager expérimenté ```
+
 
 
 1. Numbered 
