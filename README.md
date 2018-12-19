@@ -2,7 +2,8 @@
 
 
  
-  | ![Image](cat.png) | baccalauréat scientifique > Manager > Responsable > developpeur |
+  | ![Image](cat.png) | baccalauréat scientifique |
+                      | Manager |   
   |------------------ | --------------------------------------------------------------- |
 
 
