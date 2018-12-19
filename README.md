@@ -8,7 +8,7 @@
 
 |![Image](mc.png)|D'équipier à Assistant de Direction|
 |-------------|----------------------------------- |
-|___________![Image](dom.png)|Responsable de Magasin|
+|_________![Image](dom.png)|Responsable de Magasin|
 |![Image](cat.png)|Developpeur informatique|
 
 
