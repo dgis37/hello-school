@@ -1,9 +1,10 @@
 # MICHEL GHISLAIN 
 
 
- ![Image](cat.png)  
+ 
 
-| ![Image](cat.png)   | un avion |
+| ![Image](cat.png)   | baccalauréat scientifique
+manager expérimenté |
 | -------- | -------- |
 | List 1 | luc |
 
