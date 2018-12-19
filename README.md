@@ -2,8 +2,7 @@
 
 
  
-  | ![Image](cat.png) | - Baccalauréat scientifique                                                                                                                        - Manager | 
-  |------------------ | ------------------------- |
+![Image](cat.png)
 
 
 
