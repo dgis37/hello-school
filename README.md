@@ -10,9 +10,9 @@
 |---------------- | ----------------------------------- |
 |![Image](dom.png) | Responsable de Magasin |
 
-|----------------- | ------------------------ |
-|![Image](cat.png) | Developpeur informatique |
 
+|![Image](cat.png) | Developpeur informatique |
+|----------------- | ------------------------ |
 
  
 
