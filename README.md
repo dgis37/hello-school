@@ -1,15 +1,15 @@
 # MICHEL GHISLAIN 
 
 
-![Image](lycée.png) ;
+![Image](lycée.png) ; Baccalauréat scientifique
+![Image](univ.png) ; Licence 1 et 2 Maths option informatique
 
-![Image](dom.png) ; 
 
-![Image](mc.png) ;
+![Image](mc.png) ; D'équipier à Assistant de Direction
 
-![Image](univ.png) ;
+![Image](dom.png) ; Responsable de Magasin
 
-![Image](cat.png) ;
+![Image](cat.png) ; Developpeur informatique
 
 
 
