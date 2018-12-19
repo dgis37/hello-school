@@ -13,14 +13,14 @@
 
 
 |![Image](cat.png) | Developpeur informatique |
-|----------------- | ---------------------------------------- |
+|----------------- | ------------------------ |
 
  
 
 
  
 
-liens utiles [linkedin](https://www.linkedin.com/in/ghislain-michel-31b024153/) // [CV](CV_Ghislain_Michel_M2i.docx) essai 3
+liens utiles [linkedin](https://www.linkedin.com/in/ghislain-michel-31b024153/) // [CV](CV_Ghislain_Michel_M2i.docx) essai 4
 
 
 
