@@ -3,7 +3,7 @@
 
 | ![Image](lycée.png) | Baccalauréat scientifique option physique/chimie promo 2002  |
 | ------------------  | ------------------------------------------------------------ |
-| ![Image](univ.png)| Licence 1 et 2 Maths option informatique |
+| ![Image](univ.png)| IUT GTR Genie Telecomunication Réseau   Licence 1 et 2 Maths option informatique |
 
 
 |![Image](mc.png)|D'équipier à Assistant de Direction|
