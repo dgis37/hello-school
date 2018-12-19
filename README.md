@@ -1,7 +1,7 @@
 ## MICHEL GHISLAIN 
 
 
-| ![Image](lycée.png) | < Baccalauréat scientifique option physique/chimie promo 2002 > |
+| ![Image](lycée.png) | <p> Baccalauréat scientifique option physique/chimie promo 2002 </p> |
 | :------------------: | :------------: |
 | ![Image](univ.png)| { IUT GTR Genie Telecomunication Réseau  Licence 1 & 2 Maths option informatique } |
 
