@@ -8,7 +8,7 @@
 
 
 | <br> ![Image](mc.png) <br>| <br> <br> 2002-2006 D'équipier à Manager <br> 2006-2017 de Manager à Assistant de Direction|
-|:---:|---|
+|:---:|:---|
 | <br> ![Image](dom.png) <br> | <br> <br> 2017-2018 d'assistant de direction à Responsable de Magasin|
 | <br> ![Image](cat.png) <br> | <br> <br> <br> <br> <br> 2019 Developpeur informatique|
 
