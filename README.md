@@ -10,7 +10,7 @@
 | <br> ![Image](mc.png) <br>| <br> 2002-2006 D'équipier à Manager <br> 2006-2017 de Manager à Assistant de Direction : <br> ___Travail d'équipe - productivité - organisation - leadership - rigueur___ |
 |:---:|:---|
 | <br> ![Image](dom.png) <br> | <br>  2017-2018 d'assistant de direction à Responsable de Magasin : <br> ___autonomie - anticipation - reporting - prévision___  |
-| <br> ![Image](cat.png) <br> | <br> <br> 2019 Developpeur informatique <br> ___patient - obstiné - débrouillard - adore les casses têtes___ |
+| <br> ![Image](cat.png) <br> | <br> <br> 2019 Developpeur informatique <br> ___patient - obstiné - débrouillard - adore les casses têtes__ <br> let motive : [le café](https://www.youtube.com/watch?v=UGtKGX8B9hU) |
 
 
 
