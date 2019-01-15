@@ -24,9 +24,9 @@
 <img src="mc.png" alt="" />
 </p>
 <p>
- <br> 2002-2006 D'équipier à Manager <br> 2006-2017 de Manager à Assistant de Direction : <br> Travail d'équipe - productivité - organisation - leadership - rigueur
+  2002-2006 D'équipier à Manager <br> 2006-2017 de Manager à Assistant de Direction : <br> Travail d'équipe - productivité - organisation - leadership - rigueur
 </p>
-<br>
+<br><br><br><br>
 
 <p class="flotte">
 <img src="dom.png" alt="" />2017-2018 d'assistant de direction à Responsable de Magasin : <br> autonomie - anticipation - reporting - prévision 
