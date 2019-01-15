@@ -16,7 +16,7 @@
 </ul>
 
 <br><br>
-<img src="image/cat/">
+<img src="image/cat.png">
 <h3 id="part2"> professions </h3>
 <br><br>
 
