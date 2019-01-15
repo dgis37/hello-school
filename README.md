@@ -31,7 +31,7 @@
  <img src="dom.png" alt="" />
 </p>
 <p>
- br>  2017-2018 d'assistant de direction à Responsable de Magasin : <br> autonomie - anticipation - reporting - prévision 
+ <br>  2017-2018 d'assistant de direction à Responsable de Magasin : <br> autonomie - anticipation - reporting - prévision 
 </p>
 
 <br>
