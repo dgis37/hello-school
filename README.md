@@ -24,7 +24,7 @@
 <img src="mc.png" alt="" /><br> 2002-2006 D'équipier à Manager <br> 2006-2017 de Manager à Assistant de Direction : <br> Travail d'équipe - productivité - organisation - leadership - rigueur
 </p>
 <p>
- <br> 2002-2006 D'équipier à Manager <br> 2006-2017 de Manager à Assistant de Direction : <br> Travail d'équipe - productivité - organisation - leadership - rigueur
+ x
 </p>
 <br>
 
