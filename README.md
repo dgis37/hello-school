@@ -52,15 +52,12 @@
 
  
 
-<p id="part2"> professions </p>
+
 
 
 | <br id="part2"> ![Image](mc.png) <br>| <br> 2002-2006 D'équipier à Manager <br> 2006-2017 de Manager à Assistant de Direction : <br> ___Travail d'équipe - productivité - organisation - leadership - rigueur___ |
 |:---:|:---|
-| <br> ![Image](dom.png) <br> | <br>  2017-2018 d'assistant de direction à Responsable de Magasin : <br> ___autonomie - anticipation - reporting - prévision___  |
-
-
-<p id="part1"> ambition </p>  
+| <br> ![Image](dom.png) <br> | <br>  2017-2018 d'assistant de direction à Responsable de Magasin : <br> ___autonomie - anticipation - reporting - prévision___  | 
 | <br id="part3"> ![Image](cat.png) <br> | <br> <br> 2019 Developpeur informatique <br> __patient - obstiné - débrouillard - adore les casses têtes__ <br>  <br> <a href="https://www.youtube.com/watch?v=UGtKGX8B9hU" title="lien vers video">leitmotiv</a>|
 
 
