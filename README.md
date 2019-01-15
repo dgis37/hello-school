@@ -34,11 +34,12 @@
 2017-2018 d'assistant de direction à Responsable de Magasin : <br> autonomie - anticipation - reporting - prévision 
 </p>
  
-<br>
+<br><br><br>
+
 
  
 <h3 id="part3"> écoles </h3>
-<br><br>
+<br>
  
 <p class="flotte">
 <img src="lycée.png" alt="" />
