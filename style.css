@@ -6,8 +6,7 @@ body
     margin: 14px;
   }
 h1
-  {
-  
+  { 
   font-family: Times New Roman;
   margin: 30px;
   color: #004a8f;
@@ -20,10 +19,6 @@ h1
 float:left;
 }
 
-.flotte2
-{
-float:right;
-}
 
 .images {
 width:100px;
