@@ -15,7 +15,7 @@
     <li><a href="#part3" >ambitions</li>
     
  </ol>
- 
+ <br><br>
  <p class="flotte">
  <img src="lycée.png" alt="Nouveau !" />
 </p>
