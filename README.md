@@ -78,7 +78,7 @@
 -->
 <p id="part3"> ambition </p>
     
-| <br id="part3"> ![Image](cat.png) <br> | <br> <br> 2019 Developpeur informatique <br> __patient - obstiné - débrouillard - adore les casses têtes__ <br> leitmotiv <br> [le café c'est la vie](https://www.youtube.com/watch?v=UGtKGX8B9hU) |
+| <br id="part3"> ![Image](cat.png) <br> | <br> <br> 2019 Developpeur informatique <br> __patient - obstiné - débrouillard - adore les casses têtes__ <br>  <br> <a href=(https://www.youtube.com/watch?v=UGtKGX8B9hU) title="lien vers video">leitmotiv</a>|
 
  
 
