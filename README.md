@@ -1,6 +1,20 @@
 ## MICHEL GHISLAIN 
 
 
+<ol>              <!--liste ordonnée-->                           
+    <li>études</li> 
+    <li>proffession</li>
+    <li>ambition</li>
+    
+  </ol>
+
+
+
+
+
+
+
+
 
 | <br> ![Image](lycée.png) <br> | <br> Baccalauréat scientifique option physique/chimie promo 2002  |
 | :---: | --- |
