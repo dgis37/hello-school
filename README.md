@@ -35,7 +35,7 @@
 <br>
 
  
- <p id="part3"> écoles </p>
+ <h3 id="part3"> écoles <h3>
  
  <p class="flotte">
  <img src="lycée.png" alt="" />
