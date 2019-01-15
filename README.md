@@ -13,7 +13,7 @@
     <li><a href="#part1" > ambitions 
     <li><a href="#part2" >professions 
     <li><a href="#part3" >études     
- </ol>
+ 
  <br><br>
  
  <p id="part1"> professions </p>
@@ -64,7 +64,7 @@
 <!--
 | <br> ![Image](lycée.png) <br> | <br> Baccalauréat scientifique option physique/chimie promo 2002  |
 | :---: | --- |
-| <br> ![Image](univ.png) <br> | 2002 IUT GTR Genie Telecomunication Réseau <br> 2003-2004 Licence 1 & 2 Maths option informatique : <br> ___découverte des langages informatiques___ |
+| <br> ![Image](univ.png) <br> |<br> 2002 IUT GTR Genie Telecomunication Réseau <br> 2003-2004 Licence 1 & 2 Maths option informatique : <br> ___découverte des langages informatiques___ |
 -->
 
 <!--
