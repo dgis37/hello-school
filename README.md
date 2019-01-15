@@ -1,5 +1,6 @@
 ## MICHEL GHISLAIN 
 
+# sommaire
 
 <ol>                                         
     <li><a href="#part1" >études</li>  
@@ -9,17 +10,18 @@
  </ol>
 
 
-id="part1"
 
 
 
 
 
 
+h2 école
 | <br id="part1"> ![Image](lycée.png) <br> | <br> Baccalauréat scientifique option physique/chimie promo 2002  |
 | :---: | --- |
 | <br> ![Image](univ.png) <br> | 2002 IUT GTR Genie Telecomunication Réseau <br> 2003-2004 Licence 1 & 2 Maths option informatique : <br> ___découverte des langages informatiques___ |
 
+h3 ambition
 
 | <br id="part2"> ![Image](mc.png) <br>| <br> 2002-2006 D'équipier à Manager <br> 2006-2017 de Manager à Assistant de Direction : <br> ___Travail d'équipe - productivité - organisation - leadership - rigueur___ |
 |:---:|:---|
