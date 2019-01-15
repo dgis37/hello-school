@@ -61,7 +61,8 @@
 | <br id="part3"> ![Image](cat.png) <br> | <br> <br> 2019 Developpeur informatique <br> __patient - obstiné - débrouillard - adore les casses têtes__ <br>  <br> <a href="https://www.youtube.com/watch?v=UGtKGX8B9hU" title="lien vers video">leitmotiv</a>|
 
 
-liens utiles [linkedin](https://www.linkedin.com/in/ghislain-michel-31b024153/) 
+liens utiles [linkedin](https://www.linkedin.com/in/ghislain-michel-31b024153/)
+[new page](https://jsfiddle.net/7d3vLc04/?fbclid=IwAR3OWrZ9u7WC7cNNqN8SU1dCJArAUlk34ahSKNKciZi-tnCBXzbBniXyzqY/)
 <br>
 <iframe src="CV_Ghislain_Michel (2019).pdf" width = "300" height = "200" title="CV" >cv</iframe>
 [CV](CV_Ghislain_Michel (2019).pdf) 
