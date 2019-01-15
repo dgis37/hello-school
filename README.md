@@ -10,10 +10,9 @@
 <h2> sommaire
   
 <ol>                                         
-    <li><a href="#part1" > ambitions </li>  
-    <li><a href="#part2" >professions </li>
-    <li><a href="#part3" >études </li>
-     
+    <li><a href="#part1" > ambitions 
+    <li><a href="#part2" >professions 
+    <li><a href="#part3" >études     
  </ol>
  <br><br>
  
