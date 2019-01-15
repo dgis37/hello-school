@@ -15,7 +15,7 @@
     <li><a href="#part3" >études </a>    </li>
 </ul>
  
-<br><br>
+
 
 <p>
 <img src="/image/cat.png">
@@ -27,16 +27,12 @@
 <p class="flotte">
 <img src="mc.png" alt="" /><br> 2002-2006 D'équipier à Manager <br> 2006-2017 de Manager à Assistant de Direction : <br> Travail d'équipe - productivité - organisation - leadership - rigueur
 </p>
-<p>
- 
-</p>
+
 
 <p class="flotte">
 <img src="dom.png" alt="" />2017-2018 d'assistant de direction à Responsable de Magasin : <br> autonomie - anticipation - reporting - prévision 
 </p>
-<p>
 
-</p>
  
 <br><br><br>
 
