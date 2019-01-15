@@ -10,14 +10,14 @@
 <h2> sommaire </h2>
   
 <ul>                                         
-    <li><a href="#part1" > ambitions </a></li>
-    <li><a href="#part2" >professions </a></li>
-    <li><a href="#part3" >études </a>    </li>
+    <li><a href="#part1" > Ambitions </a></li>
+    <li><a href="#part2" >Professions </a></li>
+    <li><a href="#part3" >Etudes </a>    </li>
 </ul>
  
 
 
-<h3 id="part2"> professions </h3>
+<h3 id="part2"> Professions </h3>
 <br><br>
 
 <p class="flotte">
@@ -34,7 +34,7 @@
 
  
  
-<h3 id="part3"> écoles </h3>
+<h3 id="part3"> Ecoles </h3>
 <br>
   
 <p class="flotte">
@@ -53,8 +53,7 @@
 </p>
 <br>
 
-
-
+<iframe href="https://www.youtube.com/watch?v=UGtKGX8B9hU" title="lien vers video">leitmotiv</iframe>
 
 
 
