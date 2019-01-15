@@ -10,9 +10,9 @@
 <h2> sommaire </h2>
   
 <ol>                                         
-        <li><a href="#part1" > ambitions </li>
-        <li><a href="#part2" >professions </li>
-        <li><a href="#part3" >études     </li>
+    <li><a href="#part1" > ambitions </a></li>
+    <li><a href="#part2" >professions </a></li>
+    <li><a href="#part3" >études </a>    </li>
 </ol>
 
 <br><br>
@@ -21,21 +21,20 @@
 <br><br>
 
 <p class="flotte">
-<img src="mc.png" alt="" />
+<img src="mc.png" alt="" /><br> 2002-2006 D'équipier à Manager <br> 2006-2017 de Manager à Assistant de Direction : <br> Travail d'équipe - productivité - organisation - leadership - rigueur
 </p>
 <p>
-  2002-2006 D'équipier à Manager <br> 2006-2017 de Manager à Assistant de Direction : <br> Travail d'équipe - productivité - organisation - leadership - rigueur
+ 
 </p>
-<br><br><br><br>
 
 <p class="flotte">
-<img src="dom.png" alt="" />2017-2018 d'assistant de direction à Responsable de Magasin : <br> autonomie - anticipation - reporting - prévision 
+<img src="dom.png" alt="" />
 </p>
 <p>
-<br>  
+2017-2018 d'assistant de direction à Responsable de Magasin : <br> autonomie - anticipation - reporting - prévision 
 </p>
  
-<br><br><br><br>
+<br>
 
  
 <h3 id="part3"> écoles </h3>
