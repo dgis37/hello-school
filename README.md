@@ -17,6 +17,7 @@
  <br><br>
  
  <h3 id="part2"> professions </h3>
+ <br><br>
 
 <p class="flotte1">
  <img src="mc.png" alt="" />
@@ -37,7 +38,7 @@
 
  
  <h3 id="part3"> écoles </h3>
- 
+ <br><br>
  <p class="flotte">
  <img src="lycée.png" alt="" />
 </p>
