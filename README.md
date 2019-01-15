@@ -2,11 +2,9 @@
 
 
 <ol>                                         
-    <li>études</li>
-         
-    <li>proffession</li>
-    
-    <li>ambition</li>
+    <li><a href="#part1" >études</li>  
+    <li><a href="#part2" >proffession</li>
+    <li><a href="#part3" >ambition</li>
     
  </ol>
 
