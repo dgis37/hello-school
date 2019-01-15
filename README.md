@@ -5,9 +5,9 @@
    
 <body>
 
-<h1> MICHEL GHISLAIN 
+<h1> MICHEL GHISLAIN </h1>
  
-<h2> sommaire
+<h2> sommaire </h2>
   
 <ol>                                         
     <li><a href="#part1" > ambitions 
@@ -16,7 +16,7 @@
  
  <br><br>
  
- <p id="part1"> professions </p>
+ <h3 id="part1"> professions </h3>
 
 <p class="flotte1">
  <img src="mc.png" alt="" />
