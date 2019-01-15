@@ -14,7 +14,7 @@
     <li><a href="#part2" >professions </a></li>
     <li><a href="#part3" >études </a>    </li>
 </ul>
-
+ 
 <br><br>
 
 <p>
