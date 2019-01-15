@@ -84,7 +84,7 @@
 
 liens utiles [linkedin](https://www.linkedin.com/in/ghislain-michel-31b024153/) //
 
-<iframe src="CV_Ghislain_Michel (2019).pdf" width = "300" height = "200" title="CV" alt="">cv</iframe>
+<iframe src="CV_Ghislain_Michel (2019).pdf" width = "300" height = "200" title="CV" >cv</iframe>
 
 [CV](CV_Ghislain_Michel (2019).pdf) 
 
