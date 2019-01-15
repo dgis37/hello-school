@@ -8,12 +8,13 @@
 <h1> MICHEL GHISLAIN </h1>
  
 <h2> sommaire </h2>
-  
+<p>  
 <ol>                                         
         <li><a href="#part1" > ambitions </li>
         <li><a href="#part2" >professions </li>
         <li><a href="#part3" >études     </li>
-</ol>        
+</ol>
+</p>
  <br><br>
  
  <h3 id="part2"> professions </h3>
