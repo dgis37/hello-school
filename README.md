@@ -53,8 +53,7 @@
 </p>
 <br>
 
-<iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=UGtKGX8B9hU" title="lien vers video">leitmotiv</iframe>
+<a href="https://www.youtube.com/watch?v=UGtKGX8B9hU" title="lien vers video">leitmotiv</a>
 
 
 
