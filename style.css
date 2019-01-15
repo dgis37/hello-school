@@ -15,17 +15,17 @@ h1
   }
 
 
-flotte
+.flotte
 {
 float:left;
 }
 
-flotte2
+.flotte2
 {
 float:right;
 }
 
-images {
+.images {
 width:100px;
 height:100px;
 }
