@@ -1,7 +1,7 @@
 <html>
     <head>
     <link rel="stylesheet" href="style.css" />
-    <link rel=" "          href="/image/">
+    
     </head>
 <body>
  
@@ -16,10 +16,6 @@
 </ul>
  
 
-
-<p>
-<img src="/image/cat.png">
-</p>
 
 <h3 id="part2"> professions </h3>
 <br><br>
@@ -40,7 +36,7 @@
  
 <h3 id="part3"> écoles </h3>
 <br>
- 
+  
 <p class="flotte">
 <img src="lycée.png" alt="" />
 </p>
