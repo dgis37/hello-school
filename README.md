@@ -16,7 +16,11 @@
 </ul>
 
 <br><br>
+
+<p>
 <img src="image/cat.png">
+</p>
+
 <h3 id="part2"> professions </h3>
 <br><br>
 
