@@ -6,7 +6,9 @@
 <body>
   
 <h1> MICHEL GHISLAIN </h1>
- 
+
+<div> 
+
 <h2> sommaire </h2>
   
 <ul>                                         
@@ -15,10 +17,11 @@
     <li><a href="#part3" >Etudes </a>    </li>
 </ul>
  
+</div>
 
-
+<div>
 <h3 id="part2"> Professions </h3>
-<br><br>
+
 
 <p class="flotte">
 <img src="mc.png" alt="" />2002-2006 D'équipier à Manager  2006-2017 de Manager à Assistant de Direction : Travail d'équipe - productivité - organisation - leadership - rigueur
@@ -29,8 +32,8 @@
 <img src="dom.png" alt="" />2017-2018 d'assistant de direction à Responsable de Magasin :  autonomie - anticipation - reporting - prévision 
 </p>
 
- 
-<br><br><br>
+</div> 
+
 
  
  
