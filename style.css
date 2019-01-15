@@ -10,7 +10,11 @@ body
     background-color: #efefef;
     font-family: Arial ;
     color: #333333;
-    margin: 20px;
+    
+ width:200px;
+ padding:40px;
+ margin:auto;
+ 
   }
 h1
   { 
