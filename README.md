@@ -80,7 +80,7 @@
     
 | <br id="part3"> ![Image](cat.png) <br> | <br> <br> 2019 Developpeur informatique <br> __patient - obstiné - débrouillard - adore les casses têtes__ <br> leitmotiv <br> [le café c'est la vie](https://www.youtube.com/watch?v=UGtKGX8B9hU) |
 
-
+ 
 
 liens utiles [linkedin](https://www.linkedin.com/in/ghislain-michel-31b024153/) // [CV](CV_Ghislain_Michel (2019).pdf) 
 
