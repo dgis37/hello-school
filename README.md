@@ -15,13 +15,13 @@
         <li><a href="#part3" >études     </li>
 </ul>
 </p>
- <br><br>
+<br><br>
  
- <h3 id="part2"> professions </h3>
- <br><br>
+<h3 id="part2"> professions </h3>
+<br><br>
 
 <p class="flotte">
- <img src="mc.png" alt="" />
+<img src="mc.png" alt="" />
 </p>
 <p>
  <br> 2002-2006 D'équipier à Manager <br> 2006-2017 de Manager à Assistant de Direction : <br> Travail d'équipe - productivité - organisation - leadership - rigueur
@@ -29,20 +29,20 @@
 <br>
 
 <p class="flotte">
- <img src="dom.png" alt="" />
+<img src="dom.png" alt="" />
 </p>
 <p>
- <br>  2017-2018 d'assistant de direction à Responsable de Magasin : <br> autonomie - anticipation - reporting - prévision 
+<br>  2017-2018 d'assistant de direction à Responsable de Magasin : <br> autonomie - anticipation - reporting - prévision 
 </p>
  
 <br>
 
  
- <h3 id="part3"> écoles </h3>
- <br><br>
+<h3 id="part3"> écoles </h3>
+<br><br>
  
- <p class="flotte">
- <img src="lycée.png" alt="" />
+<p class="flotte">
+<img src="lycée.png" alt="" />
 </p>
 <p>
  Baccalauréat scientifique option physique/chimie promo 2002
@@ -50,10 +50,10 @@
 
 <br>
 <p class="flotte">
- <img src="univ.png" alt="" />
+<img src="univ.png" alt="" />
 </p>
 <p>
- 002 IUT GTR Genie Telecomunication Réseau <br> 2003-2004 Licence 1 & 2 Maths option informatique : <br> découverte des langages informatiques
+2002 IUT GTR Genie Telecomunication Réseau <br> 2003-2004 Licence 1 & 2 Maths option informatique : <br> découverte des langages informatiques
 </p>
 <br>
 
