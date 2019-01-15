@@ -13,7 +13,7 @@
     <li><a href="#part1" >études</li>  
     <li><a href="#part2" >professions</li>
     <li><a href="#part3" >ambitions</li>
-    
+     
  </ol>
  <br><br>
  
