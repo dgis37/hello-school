@@ -1,8 +1,8 @@
 <body>
 
-## MICHEL GHISLAIN 
+<h1> MICHEL GHISLAIN </h1>
 
-<h1> sommaire
+<h2> sommaire
 
 <ol>                                         
     <li> <a href="#part1" >études </li>
