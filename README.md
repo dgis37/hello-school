@@ -16,7 +16,7 @@
  
  <br><br>
  
- <h3 id="part1"> professions </h3>
+ <h3 id="part2"> professions </h3>
 
 <p class="flotte1">
  <img src="mc.png" alt="" />
@@ -36,7 +36,7 @@
 <br>
 
  
- <p id="part2"> écoles </p>
+ <p id="part3"> écoles </p>
  
  <p class="flotte">
  <img src="lycée.png" alt="" />
@@ -75,7 +75,7 @@
 |:---:|:---|
 | <br> ![Image](dom.png) <br> | <br>  2017-2018 d'assistant de direction à Responsable de Magasin : <br> ___autonomie - anticipation - reporting - prévision___  |
 -->
-<p id="part3"> ambition </p>
+<p id="part1"> ambition </p>
     
 | <br id="part3"> ![Image](cat.png) <br> | <br> <br> 2019 Developpeur informatique <br> __patient - obstiné - débrouillard - adore les casses têtes__ <br>  <br> <a href="https://www.youtube.com/watch?v=UGtKGX8B9hU" title="lien vers video">leitmotiv</a>|
 
