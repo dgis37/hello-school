@@ -1,3 +1,9 @@
+<html>
+<head>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+
 <body>
 
 <h1> MICHEL GHISLAIN </h1>
