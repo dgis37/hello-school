@@ -16,6 +16,9 @@
     
  </ol>
  <br><br>
+ 
+ <p id="part1"> écoles </p>
+ 
  <p class="flotte">
  <img src="lycée.png" alt="Nouveau !" />
 </p>
@@ -23,7 +26,13 @@
  Baccalauréat scientifique option physique/chimie promo 2002
 </p>
 
-<p id="part1"> écoles </p>
+<p class="flotte2">
+ <img src="univ.png" alt="Nouveau !" />
+</p>
+<p>
+ 002 IUT GTR Genie Telecomunication Réseau <br> 2003-2004 Licence 1 & 2 Maths option informatique : <br> ___découverte des langages informatiques___
+</p>
+
     
 | <br> ![Image](lycée.png) <br> | <br> Baccalauréat scientifique option physique/chimie promo 2002  |
 | :---: | --- |
