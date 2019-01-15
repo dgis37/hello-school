@@ -12,8 +12,7 @@
 <ol>                                         
     <li><a href="#part1" > ambitions </li>
         <li><a href="#part2" >professions </li>
-        <li><a href="#part3" >études     </li>
- </ol>
+        <li><a href="#part3" >études     
  <br><br>
  
  <h3 id="part2"> professions </h3>
