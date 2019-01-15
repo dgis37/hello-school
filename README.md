@@ -2,11 +2,13 @@
 
 
 <ol>              <!--liste ordonnée-->                           
-    <li>études</li> 
+    <li>études</li>
+         
     <li>proffession</li>
+    
     <li>ambition</li>
     
-  </ol>
+ </ol>
 
 
 
