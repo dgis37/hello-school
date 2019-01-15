@@ -1,3 +1,4 @@
+
 .flotte
 {
 float:left;
@@ -9,7 +10,7 @@ body
     background-color: #efefef;
     font-family: Arial ;
     color: #333333;
-    margin: 14px;
+    margin: 20px;
   }
 h1
   { 
@@ -17,6 +18,7 @@ h1
   margin: 30px;
   color: #004a8f;
   font-weight: bold;
+
   }
 
 
@@ -28,5 +30,5 @@ height:100px;
 
 h1 { text-align: center }
 h2 { text-align: center }
-ol { text-align: center }
+ul { text-align: center }
 h3 { text-align: center }
