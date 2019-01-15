@@ -42,8 +42,16 @@
 <p>
  <br> 2002-2006 D'équipier à Manager <br> 2006-2017 de Manager à Assistant de Direction : <br> ___Travail d'équipe - productivité - organisation - leadership - rigueur___
 </p>
+<br>
 
+<p class="flotte1">
+ <img src="dom.png" alt="" />
+</p>
+<p>
+ br>  2017-2018 d'assistant de direction à Responsable de Magasin : <br> ___autonomie - anticipation - reporting - prévision___  
+</p>
 
+<br>
 
 
 
