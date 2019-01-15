@@ -8,7 +8,7 @@
 <h1> MICHEL GHISLAIN 
 
 <h2> sommaire
-
+ 
 <ol>                                         
     <li><a href="#part1" >études</li>  
     <li><a href="#part2" >professions</li>
