@@ -1,7 +1,7 @@
 ## MICHEL GHISLAIN 
 
 
-<ol>              <!--liste ordonnée-->                           
+<ol>                                         
     <li>études</li>
          
     <li>proffession</li>
