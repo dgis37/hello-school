@@ -14,7 +14,7 @@
 <p id="part1"> école </p>
 
 <p class="flotte">
- <img src="lycée.png" alt="" />
+ <img src="lycée.png" alt="" >
 </p>
 <p>
  <br> Baccalauréat scientifique option physique/chimie promo 2002
