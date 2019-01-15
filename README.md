@@ -18,6 +18,14 @@
  </ol>
 
 <p id="part1"> école </p>
+
+<p class="flotte">
+ <img src="images/lycée.png" alt="Baccalauréat scientifique <br> option physique/chimie promo 2002" />
+</p>
+<p>
+ Toutes les nouveautés, rien que des nouveautés.
+</p>
+
     
 | <br> ![Image](lycée.png) <br> | <br> Baccalauréat scientifique <br> option physique/chimie promo 2002  |
 | :---: | --- |
