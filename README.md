@@ -43,7 +43,7 @@
 -->
 
 
-##GHISLAIN MICHEL
+### GHISLAIN MICHEL
 
 
 | <br> ![Image](lycée.png) <br> | <br> Baccalauréat scientifique option physique/chimie promo 2002  |
