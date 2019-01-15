@@ -1,30 +1,35 @@
+<html>
+    <head>
+    <link rel="stylesheet" href="style.css" />
+    </head>
+
 <body>
 
-## MICHEL GHISLAIN 
+<h1> MICHEL GHISLAIN 
 
-<h1> sommaire
+<h2> sommaire
 
 <ol>                                         
     <li><a href="#part1" >études</li>  
-    <li><a href="#part2" >profession</li>
-    <li><a href="#part3" >ambition</li>
+    <li><a href="#part2" >professions</li>
+    <li><a href="#part3" >ambitions</li>
     
  </ol>
-
-<p id="part1"> école </p>
-
-<p class="flotte">
- <img src="lycée.png" alt="" >
+ 
+ <p class="flotte">
+ <img src="images/new.png" alt="Nouveau !" />
 </p>
 <p>
- <br> Baccalauréat scientifique option physique/chimie promo 2002
+ Toutes les nouveautés, rien que des nouveautés.
 </p>
+
+<p id="part1"> écoles </p>
     
 | <br> ![Image](lycée.png) <br> | <br> Baccalauréat scientifique option physique/chimie promo 2002  |
 | :---: | --- |
 | <br> ![Image](univ.png) <br> | 2002 IUT GTR Genie Telecomunication Réseau <br> 2003-2004 Licence 1 & 2 Maths option informatique : <br> ___découverte des langages informatiques___ |
 
-<p id="part2"> profession </p>
+<p id="part2"> professions </p>
 
 | <br id="part2"> ![Image](mc.png) <br>| <br> 2002-2006 D'équipier à Manager <br> 2006-2017 de Manager à Assistant de Direction : <br> ___Travail d'équipe - productivité - organisation - leadership - rigueur___ |
 |:---:|:---|
@@ -38,7 +43,7 @@
 
 liens utiles [linkedin](https://www.linkedin.com/in/ghislain-michel-31b024153/) // [CV](CV_Ghislain_Michel (2019).pdf) 
 
+</body>
 
-
- 
+</html>
   
