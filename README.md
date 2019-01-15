@@ -54,7 +54,7 @@
 <br>
 
 <a href="https://www.youtube.com/watch?v=UGtKGX8B9hU" title="lien vers video">leitmotiv</a>
-
+<a href="https://www.linkedin.com/in/ghislain-michel-31b024153">CV</a>
 
 
 
