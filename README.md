@@ -30,7 +30,7 @@
  <img src="univ.png" alt="" />
 </p>
 <p>
- 002 IUT GTR Genie Telecomunication Réseau <br> 2003-2004 Licence 1 & 2 Maths option informatique : <br> ___découverte des langages informatiques___
+ 002 IUT GTR Genie Telecomunication Réseau <br> 2003-2004 Licence 1 & 2 Maths option informatique : <br> découverte des langages informatiques
 </p>
 <br>
 
@@ -40,7 +40,7 @@
  <img src="mc.png" alt="" />
 </p>
 <p>
- <br> 2002-2006 D'équipier à Manager <br> 2006-2017 de Manager à Assistant de Direction : <br> ___Travail d'équipe - productivité - organisation - leadership - rigueur___
+ <br> 2002-2006 D'équipier à Manager <br> 2006-2017 de Manager à Assistant de Direction : <br> Travail d'équipe - productivité - organisation - leadership - rigueur
 </p>
 <br>
 
@@ -48,7 +48,7 @@
  <img src="dom.png" alt="" />
 </p>
 <p>
- br>  2017-2018 d'assistant de direction à Responsable de Magasin : <br> ___autonomie - anticipation - reporting - prévision___  
+ br>  2017-2018 d'assistant de direction à Responsable de Magasin : <br> autonomie - anticipation - reporting - prévision 
 </p>
 
 <br>
