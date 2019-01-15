@@ -9,11 +9,11 @@
  
 <h2> sommaire </h2>
   
-<ol>                                         
+<ul>                                         
     <li><a href="#part1" > ambitions </a></li>
     <li><a href="#part2" >professions </a></li>
     <li><a href="#part3" >études </a>    </li>
-</ol>
+</ul>
 
 <br><br>
  
