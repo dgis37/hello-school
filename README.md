@@ -17,10 +17,10 @@
  </ol>
  
  <p class="flotte">
- <img src="images/new.png" alt="Nouveau !" />
+ <img src="lycée.png" alt="Nouveau !" />
 </p>
 <p>
- Toutes les nouveautés, rien que des nouveautés.
+ Baccalauréat scientifique option physique/chimie promo 2002
 </p>
 
 <p id="part1"> écoles </p>
