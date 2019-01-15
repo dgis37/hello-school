@@ -1,3 +1,9 @@
+.flotte
+{
+float:left;
+}
+
+
 body
   {
     background-color: #efefef;
@@ -13,11 +19,6 @@ h1
   font-weight: bold;
   }
 
-
-.flotte
-{
-float:left;
-}
 
 
 .images {
