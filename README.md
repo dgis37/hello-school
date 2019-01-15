@@ -10,31 +10,14 @@
 <h2> sommaire
  
 <ol>                                         
-    <li><a href="#part1" >études </li>  
+    <li><a href="#part1" > ambitions </li>  
     <li><a href="#part2" >professions </li>
-    <li><a href="#part3" >ambitions </li>
+    <li><a href="#part3" >études </li>
      
  </ol>
  <br><br>
  
- <p id="part1"> écoles </p>
- 
- <p class="flotte">
- <img src="lycée.png" alt="" />
-</p>
-<p>
- Baccalauréat scientifique option physique/chimie promo 2002
-</p>
-<br>
-<p class="flotte2">
- <img src="univ.png" alt="" />
-</p>
-<p>
- 002 IUT GTR Genie Telecomunication Réseau <br> 2003-2004 Licence 1 & 2 Maths option informatique : <br> découverte des langages informatiques
-</p>
-<br>
-
-<p id="part2"> professions </p>
+ <p id="part1"> professions </p>
 
 <p class="flotte1">
  <img src="mc.png" alt="" />
@@ -52,6 +35,25 @@
 </p>
 
 <br>
+
+ 
+ <p id="part2"> écoles </p>
+ 
+ <p class="flotte">
+ <img src="lycée.png" alt="" />
+</p>
+<p>
+ Baccalauréat scientifique option physique/chimie promo 2002
+</p>
+<br>
+<p class="flotte2">
+ <img src="univ.png" alt="" />
+</p>
+<p>
+ 002 IUT GTR Genie Telecomunication Réseau <br> 2003-2004 Licence 1 & 2 Maths option informatique : <br> découverte des langages informatiques
+</p>
+<br>
+
 
 
 
