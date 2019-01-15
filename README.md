@@ -19,7 +19,7 @@
  <h3 id="part2"> professions </h3>
  <br><br>
 
-<p class="flotte1">
+<p class="flotte">
  <img src="mc.png" alt="" />
 </p>
 <p>
@@ -27,7 +27,7 @@
 </p>
 <br>
 
-<p class="flotte1">
+<p class="flotte">
  <img src="dom.png" alt="" />
 </p>
 <p>
@@ -39,14 +39,16 @@
  
  <h3 id="part3"> écoles </h3>
  <br><br>
+ 
  <p class="flotte">
  <img src="lycée.png" alt="" />
 </p>
 <p>
  Baccalauréat scientifique option physique/chimie promo 2002
 </p>
+
 <br>
-<p class="flotte2">
+<p class="flotte">
  <img src="univ.png" alt="" />
 </p>
 <p>
